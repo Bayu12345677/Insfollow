@@ -15,7 +15,7 @@ sebuah tools yg berfungsi untuk menambahkan follower dan likes pada akun instagr
 ```bash
 pkg update
 pkg upgrade
-apt-get install curl xh tor make clang git ossp-uuid
+apt-get install curl xh tor make clang git ossp-uuid ncurses-utils
 git clone https://github.com/Bayu12345677/Insfollow
 cd Insfollow
 ```
